@@ -9,7 +9,7 @@ Full stack Robotics Software Engineer, I've amassed about 10 years' experience i
 * 🌍  I'm based in Bologna
 * 🧠  I'm learning ROS2 and Python3
 * 🤝  I'm open to collaborating on ROS and ROS2 projects
-* ⚡  I love videogames, wellness, football, wrestling and sports in general, animals especially cats
+* ⚡  I love robotics (of course), videogames, wellness, football, wrestling and sports in general, animals especially cats
 
 ### Skills
 
