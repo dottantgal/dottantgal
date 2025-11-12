@@ -36,6 +36,18 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
 
 ---
 
+### 🏆 GitHub Trophies & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dottantgal&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dottantgal&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -48,10 +60,3 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
 
 ### ⚡ Fun Fact
 Outside robotics, I enjoy analyzing tech products as an **Amazon Vine reviewer**, playing videogames, and following sports — especially football and wrestling.
-
-
-<div width="100%" align="center"><a href="https://github.com/dottantgal/ROS2_learning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dottantgal&repo=ROS2_learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dottantgal/Andy_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dottantgal&repo=Andy_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
-
-<br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/dottantgal/hacker_rank" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dottantgal&repo=hacker_rank&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
