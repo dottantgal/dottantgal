@@ -39,7 +39,7 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
 ### 🏆 GitHub Trophies & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dottantgal&theme=onedark&no-frame=true" />
+  <img src="https://github-profile-trophy-render.vercel.app/?username=dottantgal&theme=onedark&no-frame=true" />
 </p>
 
 <p align="center">
