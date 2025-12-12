@@ -36,11 +36,7 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
 
 ---
 
-### 🏆 GitHub Trophies & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy-api.deno.dev/?username=dottantgal&theme=onedark&no-frame=true" />
-</p>
+### 🏆 GitHub  Activity
 
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=dottantgal&theme=react-dark&hide_border=true" />
