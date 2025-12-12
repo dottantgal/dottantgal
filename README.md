@@ -30,8 +30,8 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dottantgal&show_icons=true&theme=react&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dottantgal&layout=compact&theme=react&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dottantgal&show_icons=true&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dottantgal&layout=compact&theme=react&hide_border=true" height="160" />
 </p>
 
 ---
@@ -39,13 +39,12 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
 ### 🏆 GitHub Trophies & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dottantgal&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dottantgal&theme=onedark&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-rickstaa.vercel.app/graph?username=dottantgal&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=dottantgal&theme=react-dark&hide_border=true" />
 </p>
-
 
 ---
 
