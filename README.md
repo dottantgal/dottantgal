@@ -30,9 +30,10 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dottantgal&show_icons=true&theme=react&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dottantgal&layout=compact&theme=react&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dottantgal&show_icons=true&theme=react&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dottantgal&layout=compact&theme=react&hide_border=true" height="160" alt="Top Languages" />
 </p>
+
 
 ---
 
