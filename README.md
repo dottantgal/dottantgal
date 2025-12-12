@@ -34,7 +34,6 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dottantgal&layout=compact&theme=react&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
-
 ---
 
 ### 🏆 GitHub Trophies & Activity
@@ -44,8 +43,9 @@ Autonomous Navigation · Perception · Computer Vision · Embedded Systems · Fi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dottantgal&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph-rickstaa.vercel.app/graph?username=dottantgal&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
